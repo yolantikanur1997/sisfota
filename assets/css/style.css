@@ -1,0 +1,24 @@
+.w3-bar{
+	height: 55px;
+}
+.w3-bar .w3-bar-item{
+	margin-top: 5px;
+}
+.avatar{
+	border-radius: 25px 25px 25px 25px;
+	width: 30px;
+	height: 30px;
+}
+.w3-right{
+	margin: 5px 350px 0px 0px;
+}
+#pesan{
+	margin-top: 50px;
+}
+.w3-sidebar .w3-bar-item{
+	text-align: right;
+	text-decoration: none;
+}
+.w3-sidebar .fa{
+ float: left;
+}
